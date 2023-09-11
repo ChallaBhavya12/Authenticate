@@ -1,4 +1,4 @@
-In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
+In this project, i have built a ecommerce app. cart option is yet to be added
 
 The app will following functionalities
 
@@ -14,18 +14,13 @@ The app will following functionalities
   - If the HTTP GET request made is unsuccessful, then the [Failure view](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-product-details-error-lg-output.png) should be displayed
     - When the **Continue Shopping** button in the [Failure view](https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-product-details-error-lg-output.png) is clicked, then the page should be navigated to Products Route
 
-</details>
-
 - Prime User credentials
 
-  ```
    username: rahul
    password: rahul@2021
-  ```
 
 - Non-Prime User credentials
 
-  ```
    username: raja
    password: raja@2021
-  ```
+ 
